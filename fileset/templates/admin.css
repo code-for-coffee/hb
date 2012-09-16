@@ -1,0 +1,40 @@
+.genericadmin
+{
+color: Red;font-weight: bold;font-style: normal;background-color: transparent;text-decoration: none;
+}
+.genericuser
+{
+color: White; font-weight: normal; font-style: normal; background-color: Gray; text-decoration: none; border-top: 1px solid Black;border-bottom: 1px solid Black;border-right: 1px solid Black;border-left: 1px solid Black;
+}
+.vip
+{
+color: Blue; font-weight: normal; font-style: normal; background-color: transparent; text-decoration: none; border-top: 1px solid Blue; border-bottom: 1px solid Blue; border-left: 1px solid Blue; border-right: 1px solid Blue;
+}
+.alumni
+{
+color: Red; font-weight: normal; font-style: normal; background-color: transparent; text-decoration: none; border-top: 1px solid Red; border-bottom: 1px solid Red; border-left: 1px solid Red; border-right: 1px solid Red;
+}
+.adminalumni
+{
+color: Red; font-weight: bold; font-style: normal; background-color: transparent; text-decoration: none; border-top: 1px solid Red; border-bottom: 1px solid Red; border-left: 1px solid Red; border-right: 1px solid Red;
+}
+.lordtuvitor
+{
+color: AliceBlue;font-weight: bold;font-style: normal;background-color: MidnightBlue;text-decoration: none;border-top: 1px solid Black;border-bottom: 1px solid Black;border-right: 1px solid Black;border-left: 1px solid Black;
+}
+.urgentjedipicnic
+{
+color: LightGreen;font-weight: bold;font-style: normal;background-color: DarkRed;text-decoration: none;border-top: 1px solid DarkGreen;border-bottom: 1px solid DarkGreen;border-right: 1px solid DarkGreen;border-left: 1px solid DarkGreen;
+}
+.jedisatimber
+{
+color: Red;font-weight: bold;font-style: normal;background-color: Black;text-decoration: none;border-top: 1px solid Red;border-bottom: 1px solid Red;border-right: 1px solid Red;border-left: 1px solid Red;
+}
+.sarc
+{
+color: Silver;font-weight: normal;font-style: normal;background-color: Black;text-decoration: none;border-top: 1px solid Silver; border-bottom: 1px solid Silver; border-right: 1px solid Silver; border-left: 1px solid Silver;
+}
+.strangebehaviour
+{
+color: AliceBlue; font-weight: normal; font-style: italic; background-color: Purple; text-decoration: none; border-top: 1px solid Silver; border-bottom: 1px solid Silver; border-right: 1px solid Silver; border-left: 1px solid Silver;
+}
